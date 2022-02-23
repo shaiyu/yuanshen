@@ -1,5 +1,7 @@
 # yuanshen
 
+[主页](https://shaiyu.github.io/yuanshen/)
+
 ## Project setup
 ```
 npm install
